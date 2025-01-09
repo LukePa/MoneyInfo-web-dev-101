@@ -1,0 +1,20 @@
+
+
+
+
+PROBLEMS ARE
+
+Adding a task
+
+
+
+
+Select the div we want the task to be in
+How to trigger the function that will add the task
+Creating the task element with the right string
+Add the created task element to the task list div
+
+<li class="task">
+	<input type="checkbox" />
+	<span>task text</span>
+</li>
